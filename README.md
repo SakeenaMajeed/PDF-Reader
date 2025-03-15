@@ -20,23 +20,18 @@ Ensure you have the following installed:
 - Google Generative AI API Key
 
 ### 2️⃣ Installation Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/chat-with-pdf.git
-   cd chat-with-pdf
-   ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Set your Google API Key in the environment:
+2. Set your Google API Key in the environment:
    ```bash
    export GOOGLE_API_KEY="your_api_key_here"
    ```
 
-4. Run the Streamlit app:
+3. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
@@ -62,7 +57,7 @@ Ensure you have the following installed:
 
 🌐 Live Demo
 
-Check out the live version of this app here: Live Demo
+Check out the live version of this app here: Live Demo https://pdf-reader-123.streamlit.app/
 
 🔗 Connect with Me
 
